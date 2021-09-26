@@ -1,0 +1,71 @@
+[
+  {
+    "Id": 1, 
+    "Name": "Angular Speedster Board 2000"
+    
+  },
+  {
+    "Id": 2,
+    "Name": "Green Angular Board 3000"
+    
+  },
+  {
+    "Id": 3,
+    "Name": "Core Board Speed Rush 3"
+    
+  },
+  {
+    "Id": 4,
+    "Name": "Net Core Super Board"
+   
+  },
+  {
+    "Id": 5,
+    "Name": "React Board Super Whizzy Fast"
+   
+  },
+  {
+    "Id": 6,
+    "Name": "Typescript Entry Board"
+   
+  },
+  {
+    "Id": 7,
+    "Name": "Core Blue Hat"
+   
+  },
+  {
+    "Id": 8,
+    "Name": "Green React Woolen Hat"
+   
+  },
+  {
+    "Id": 9,
+    "Name": "Purple React Woolen Hat"
+   
+  },
+  {
+    "Id": 10,
+    "Name": "Blue Code Gloves"
+  },
+  {
+    "Id": 11,
+    "Name": "Green Code Gloves"
+  },
+  {
+    "Id": 12,
+    "Name": "Purple React Gloves"
+  },
+  {
+    "Id": 13,
+    "Name": "Green React Gloves"
+  },
+  {
+    "Id": 14,
+    "Name": "Redis Red Boots"
+  },
+  {
+    "Id": 15,
+    "Name": "Core Red Boots"
+  }
+]
